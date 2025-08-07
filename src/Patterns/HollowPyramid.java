@@ -1,4 +1,4 @@
-package Practice;
+package Patterns;
 
 public class HollowPyramid {
 	public static void main(String[] args) {

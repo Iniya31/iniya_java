@@ -1,4 +1,4 @@
-package Practice;
+package WhileFor;
 
 public class While4 {
 	public static void main(String[] args) {
